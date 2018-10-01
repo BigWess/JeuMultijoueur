@@ -16,3 +16,4 @@ Content/ThirdPersonBP/Maps/Hub.umap
 Content/Blueprints/NewGameMode.uasset
 Config/DefaultInput.ini
 Config/DefaultEngine.ini
+*.rar
