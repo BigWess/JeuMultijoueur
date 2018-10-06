@@ -17,3 +17,6 @@ Content/Blueprints/NewGameMode.uasset
 Config/DefaultInput.ini
 Config/DefaultEngine.ini
 *.rar
+*.uasset
+Content/LandscapeAutoMaterial/Textures/Generic/SplatterMask_D.uasset
+Content/ThirdPersonBP/Maps/Hub.umap
