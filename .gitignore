@@ -20,3 +20,4 @@ Config/DefaultEngine.ini
 *.uasset
 Content/LandscapeAutoMaterial/Textures/Generic/SplatterMask_D.uasset
 Content/ThirdPersonBP/Maps/Hub.umap
+Content/ThirdPersonBP/Maps/ThirdPersonBP - Raccourci.lnk
