@@ -21,3 +21,5 @@ Config/DefaultEngine.ini
 Content/LandscapeAutoMaterial/Textures/Generic/SplatterMask_D.uasset
 Content/ThirdPersonBP/Maps/Hub.umap
 Content/ThirdPersonBP/Maps/ThirdPersonBP - Raccourci.lnk
+Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+Content/ThirdPersonBP/Maps/Hub.umap
